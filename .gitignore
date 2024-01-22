@@ -1,0 +1,8 @@
+
+data.ipynb
+.ipynb_checkpoints/Project 2-Part 1-checkpoint.ipynb
+*.ipynb
+Project 2-Part 1.ipynb
+Data/title-akas-us-only.csv
+Data/title.basics.tsv.gz
+Data/title.ratings.tsv
